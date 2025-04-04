@@ -1,6 +1,6 @@
 ADIDAS-SALES-ANALYSIS
 
-Repository Name: Adidas Sales Analysis Dashboard
+Repository Name: Athleisure Retail Analytics and Strategy Dashboard
 
 Description: This repository contains a Power BI dashboard for analyzing Adidas sales performance across various dimensions. The project aims to empower decision-makers with actionable insights to optimize sales strategies, improve profitability, and strengthen market positioning in the dynamic sports and athletic industry.
 
